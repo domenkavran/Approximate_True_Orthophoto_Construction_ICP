@@ -11,4 +11,20 @@ This repository contains demonstration data and a Jupyter Notebook script for th
 **Note:**  
 Some cells open pop-up windows for manual correction of semantic segmentation.
 
-Contact us on [email](mailto:domen.kavran1@um.si) for receiving sample data.
+## Acknowledgements
+This research was funded by the Slovenian Research and Innovation Agency (Funding Nos. P2-0041 and J7-50095).
+
+## Citation
+If you use this code, please cite:
+```
+@INPROCEEDINGS{10608032,
+  author={Kavran, Domen and Mongus, Domen and Lukač, Niko},
+  booktitle={2024 International Conference on Computer, Information and Telecommunication Systems (CITS)}, 
+  title={Buildings, Approximate True Orthophoto Construction From Satellite Imagery Using Semantic Segmentation and the ICP Algorithm}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Measurement;Accuracy;Satellites;Semantic segmentation;Buildings;Urban planning;Benchmark testing;Approximation algorithms;Satellite images;Telecommunications;orthorectification;satellite;segmentation;CNN;ICP},
+  doi={10.1109/CITS61189.2024.10608032}}
+```
